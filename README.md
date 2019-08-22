@@ -5,4 +5,6 @@ Implement a deep reinforcement learning algorithm- DQN (Deep Q network and teach
 Please refer "report.pdf" for implementatrion details and results in the project folder.
 
 ## Results
+![alt text](https://github.com/snehamuppala/DeepReinforcementLearning/blob/master/result1.png)
 
+![alt text](https://github.com/snehamuppala/DeepReinforcementLearning/blob/master/result2.png)
